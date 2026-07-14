@@ -21,6 +21,7 @@ public static class Arrays
         }
         return multiples;
     }
+     // Example:
 
    // Plan:
    // 1. Find the index where the list should split.
@@ -50,6 +51,6 @@ public static class Arrays
     rotatedList.AddRange(startPart);
 
     return;
+    }
 }
-}
-    
+
