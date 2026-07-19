@@ -8,7 +8,7 @@ Console.WriteLine("\n======================\nBasketball\n======================"
 Basketball.Run();
 
 // Uncomment and run as you get to the solution part
-// Console.WriteLine("\n======================\nUnique Letters\n======================");
+ Console.WriteLine("\n======================\nUnique Letters\n======================");
 // UniqueLettersSolution.Run();
 
 // Console.WriteLine("\n======================\nDisplay Sums\n======================");
